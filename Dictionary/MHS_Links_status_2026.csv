@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+2026-01,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-january-2026,200,yes,273,Dictionary/2026/MHS_Links_01.csv,
+2026-02,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-february-2026,200,yes,273,Dictionary/2026/MHS_Links_02.csv,
+2026-03,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-march-2026,200,yes,273,Dictionary/2026/MHS_Links_03.csv,
+2026-04,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-april-2026,200,yes,273,Dictionary/2026/MHS_Links_04.csv,
+2026-05,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-may-2026,200,yes,273,Dictionary/2026/MHS_Links_05.csv,
+2026-06,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-june-2026,200,yes,273,Dictionary/2026/MHS_Links_06.csv,
+2026-07,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-july-2026,200,yes,273,Dictionary/2026/MHS_Links_07.csv,
+2026-08,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-august-2026-1,200,yes,273,Dictionary/2026/MHS_Links_08.csv,
+2026-09,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-september-2026,404,,,,HTTP 404 and the month is not listed in BNM's archive
+2026-10,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-october-2026,404,,,,HTTP 404 and the month is not listed in BNM's archive
+2026-11,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-november-2026,404,,,,HTTP 404 and the month is not listed in BNM's archive
+2026-12,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-december-2026,404,,,,HTTP 404 and the month is not listed in BNM's archive

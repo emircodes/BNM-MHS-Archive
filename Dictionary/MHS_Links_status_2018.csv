@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+2018-01,https://www.bnm.gov.my/-/sorotan-dan-perangkaan-bulanan-januari-2019-1,200,no (standard-table),263,Dictionary/2018/MHS_Links_01.csv,
+2018-02,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-in-february-2019-1,200,no (standard-table),266,Dictionary/2018/MHS_Links_02.csv,
+2018-03,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-in-march-2019-1,200,no (standard-table),266,Dictionary/2018/MHS_Links_03.csv,
+2018-04,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-april-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_04.csv,
+2018-05,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-may-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_05.csv,
+2018-06,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-june-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_06.csv,
+2018-07,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-july-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_07.csv,
+2018-08,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-august-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_08.csv,
+2018-09,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-september-2018,200,no (standard-table),266,Dictionary/2018/MHS_Links_09.csv,
+2018-10,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-october-2018,200,no (standard-table),276,Dictionary/2018/MHS_Links_10.csv,
+2018-11,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-november-2018,200,no (standard-table),276,Dictionary/2018/MHS_Links_11.csv,
+2018-12,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-in-december-2018,200,no (standard-table),276,Dictionary/2018/MHS_Links_12.csv,

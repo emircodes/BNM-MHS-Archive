@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+2015-01,https://www.bnm.gov.my/-/monthly-statistical-bulletin-jan-2015,200,no (table-bordered),248,Dictionary/2015/MHS_Links_01.csv,
+2015-02,https://www.bnm.gov.my/-/monthly-statistical-bulletin-feb-2015,200,no (table-bordered),248,Dictionary/2015/MHS_Links_02.csv,
+2015-03,https://www.bnm.gov.my/-/monthly-statistical-bulletin-march-2016-1,200,no (table-bordered),248,Dictionary/2015/MHS_Links_03.csv,
+2015-04,https://www.bnm.gov.my/-/monthly-statistical-bulletin-april-2015,200,no (standard-table),248,Dictionary/2015/MHS_Links_04.csv,
+2015-05,https://www.bnm.gov.my/-/monthly-statistical-bulletin-may-2015,200,no (standard-table),248,Dictionary/2015/MHS_Links_05.csv,
+2015-06,https://www.bnm.gov.my/-/monthly-statistical-bulletin-june-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_06.csv,
+2015-07,https://www.bnm.gov.my/-/monthly-statistical-bulletin-july-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_07.csv,
+2015-08,https://www.bnm.gov.my/-/monthly-statistical-bulletin-august-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_08.csv,
+2015-09,https://www.bnm.gov.my/-/monthly-statistical-bulletin-september-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_09.csv,
+2015-10,https://www.bnm.gov.my/-/monthly-statistical-bulletin-october-2015,200,no (standard-table),248,Dictionary/2015/MHS_Links_10.csv,
+2015-11,https://www.bnm.gov.my/-/monthly-statistical-bulletin-november-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_11.csv,
+2015-12,https://www.bnm.gov.my/-/monthly-statistical-bulletin-december-2015,200,no (standard-table),249,Dictionary/2015/MHS_Links_12.csv,

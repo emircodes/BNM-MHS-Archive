@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+2024-01,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-january-2024,200,yes,318,Dictionary/2024/MHS_Links_01.csv,
+2024-02,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-february-2024,200,yes,318,Dictionary/2024/MHS_Links_02.csv,
+2024-03,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-march-2024,200,yes,318,Dictionary/2024/MHS_Links_03.csv,
+2024-04,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-april-2024,200,yes,318,Dictionary/2024/MHS_Links_04.csv,
+2024-05,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-may-2024,200,yes,319,Dictionary/2024/MHS_Links_05.csv,
+2024-06,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-june-2024,200,yes,319,Dictionary/2024/MHS_Links_06.csv,
+2024-07,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-july-2024,200,yes,319,Dictionary/2024/MHS_Links_07.csv,
+2024-08,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-august-2024,200,yes,319,Dictionary/2024/MHS_Links_08.csv,
+2024-09,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-september-2024,200,yes,319,Dictionary/2024/MHS_Links_09.csv,
+2024-10,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-october-2024,200,yes,319,Dictionary/2024/MHS_Links_10.csv,
+2024-11,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-november-2024,200,yes,319,Dictionary/2024/MHS_Links_11.csv,
+2024-12,https://www.bnm.gov.my/-/monthly-highlights-statistics-in-december-2024,200,yes,319,Dictionary/2024/MHS_Links_12.csv,

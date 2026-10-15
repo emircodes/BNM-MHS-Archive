@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+2020-01,https://www.bnm.gov.my/-/msb-01-2020,200,no (standard-table),276,Dictionary/2020/MHS_Links_01.csv,
+2020-02,https://www.bnm.gov.my/-/msb-02-2020,200,no (table-bordered),276,Dictionary/2020/MHS_Links_02.csv,
+2020-03,https://www.bnm.gov.my/-/msb-03-2020,200,no (table-bordered),276,Dictionary/2020/MHS_Links_03.csv,
+2020-04,https://www.bnm.gov.my/-/msb-04-2020,200,no (table-bordered),276,Dictionary/2020/MHS_Links_04.csv,
+2020-05,https://www.bnm.gov.my/-/msb-05-2020,200,no (table-bordered),276,Dictionary/2020/MHS_Links_05.csv,
+2020-06,https://www.bnm.gov.my/-/msb-06-2020,200,no (unclassified table),276,Dictionary/2020/MHS_Links_06.csv,
+2020-07,https://www.bnm.gov.my/-/msb-07-2020,200,no (standard-table),276,Dictionary/2020/MHS_Links_07.csv,
+2020-08,https://www.bnm.gov.my/-/msb-08-2020,200,no (standard-table),276,Dictionary/2020/MHS_Links_08.csv,
+2020-09,https://www.bnm.gov.my/-/msb-09-2020,200,no (standard-table),276,Dictionary/2020/MHS_Links_09.csv,
+2020-10,https://www.bnm.gov.my/-/msb-10-2020,200,no (standard-table),276,Dictionary/2020/MHS_Links_10.csv,
+2020-11,https://www.bnm.gov.my/-/msb-11-2020,200,no (standard-table),277,Dictionary/2020/MHS_Links_11.csv,
+2020-12,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-in-december-2020,200,no (standard-table),277,Dictionary/2020/MHS_Links_12.csv,

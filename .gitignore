@@ -1,0 +1,16 @@
+# The MHS data files are distributed as annual ZIPs on GitHub Releases, never committed.
+MHS/
+dist/
+*.zip
+*.part
+*.xls
+*.xlsx
+*.pdf
+SHA256SUMS
+MHS_manifest.csv
+
+# Local environment and OS files
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store

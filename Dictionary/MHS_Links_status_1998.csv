@@ -1,0 +1,13 @@
+﻿month,url,http_status,mhs_found,links,output,error
+1998-01,https://www.bnm.gov.my/-/msb-01-1998,200,no (standard-table),94,Dictionary/1998/MHS_Links_01.csv,
+1998-02,https://www.bnm.gov.my/-/monthly-statistical-bulletin-february-1998,200,no (standard-table),95,Dictionary/1998/MHS_Links_02.csv,
+1998-03,https://www.bnm.gov.my/-/monthly-statistical-bulletin-march-1998,200,no (standard-table),95,Dictionary/1998/MHS_Links_03.csv,
+1998-04,https://www.bnm.gov.my/-/monthly-statistical-bulletin-april-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_04.csv,
+1998-05,https://www.bnm.gov.my/-/monthly-statistical-bulletin-may-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_05.csv,
+1998-06,https://www.bnm.gov.my/-/monthly-statistical-bulletin-june-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_06.csv,
+1998-07,https://www.bnm.gov.my/-/monthly-statistical-bulletin-july-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_07.csv,
+1998-08,https://www.bnm.gov.my/-/monthly-statistical-bulletin-august-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_08.csv,
+1998-09,https://www.bnm.gov.my/-/monthly-statistical-bulletin-september-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_09.csv,
+1998-10,https://www.bnm.gov.my/-/monthly-statistical-bulletin-october-1998,200,no (standard-table),98,Dictionary/1998/MHS_Links_10.csv,
+1998-11,https://www.bnm.gov.my/-/monthly-statistical-bulletin-november-1998,200,no (standard-table),97,Dictionary/1998/MHS_Links_11.csv,
+1998-12,https://www.bnm.gov.my/-/monthly-statistical-bulletin-december-1998,200,no (standard-table),99,Dictionary/1998/MHS_Links_12.csv,
