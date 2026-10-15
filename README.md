@@ -11,7 +11,8 @@ This is an unofficial archive and is not affiliated with or endorsed by Bank Neg
 |---|---|
 | Download-link dictionary: every file linked from each monthly page (344 months, 76,321 links, 76,314 unique files) | [`Dictionary/`](Dictionary/) |
 | The data files themselves: 29 annual ZIPs, 2.64 GiB in total | [Release `mhs-archive-2026-10-15`](../../releases/tag/mhs-archive-2026-10-15) |
-| Files that could not be retrieved (27) | [`unavailable_files.md`](unavailable_files.md) / [`.csv`](unavailable_files.csv) |
+| Files that could not be retrieved (21) | [`unavailable_files.md`](unavailable_files.md) / [`.csv`](unavailable_files.csv) |
+| Files recovered after the snapshot (6 entries, 8 files), not yet in the Release | [`recovered/`](recovered/) |
 
 ### Dictionary
 
