@@ -1,7 +1,7 @@
 # BNM Monthly Highlights & Statistics (MHS) archive
 
 An archive of the data files published in Bank Negara Malaysia's *Monthly Highlights & Statistics*
-(formerly *Monthly Statistical Bulletin*), January 1998 to August 2026. Snapshot taken 2026-10-15.
+(formerly *Monthly Statistical Bulletin*), January 1998 to August 2026. Snapshot 2026-10-16 (files downloaded 2026-10-15, with later recoveries).
 
 This is an unofficial archive and is not affiliated with or endorsed by Bank Negara Malaysia.
 
@@ -9,10 +9,10 @@ This is an unofficial archive and is not affiliated with or endorsed by Bank Neg
 
 | What | Where |
 |---|---|
-| Download-link dictionary: every file linked from each monthly page (344 months, 76,321 links, 76,314 unique files) | [`Dictionary/`](Dictionary/) |
-| The data files themselves: 29 annual ZIPs, 2.64 GiB in total | [Release `mhs-archive-2026-10-15`](../../releases/tag/mhs-archive-2026-10-15) |
-| Files that could not be retrieved (21) | [`unavailable_files.md`](unavailable_files.md) / [`.csv`](unavailable_files.csv) |
-| Files recovered after the snapshot (6 entries, 8 files), not yet in the Release | [`recovered/`](recovered/) |
+| Download-link dictionary: every file linked from each monthly page (344 months, 76,491 links, 76,484 unique files) | [`Dictionary/`](Dictionary/) |
+| The data files themselves: 29 annual ZIPs, 2.66 GiB in total | [Release `mhs-archive-2026-10-16`](../../releases/tag/mhs-archive-2026-10-16) |
+| Files that could not be retrieved (22) | [`unavailable_files.md`](unavailable_files.md) / [`.csv`](unavailable_files.csv) |
+| Files recovered after the 2026-10-15 snapshot (6 entries, 8 files), included in the 2026-10-16 Release | [`recovered/`](recovered/) |
 
 ### Dictionary
 
@@ -30,9 +30,11 @@ This is an unofficial archive and is not affiliated with or endorsed by Bank Neg
   `sha256sum -c SHA256SUMS` (Linux).
 - `MHS_manifest.csv`: size and SHA-256 of every file inside the ZIPs.
 
-All 76,287 archived files passed file-signature checks (PDF, Excel 97-2003, or Excel
+All 76,464 archived files passed file-signature checks (PDF, Excel 97-2003, or Excel
 workbook with an intact ZIP container). Error pages and challenge pages were rejected. Files that
-could not be retrieved are listed, not substituted.
+could not be retrieved are listed in `unavailable_files.md`. The exceptions are the 8 contributed
+files described in [`recovered/README.md`](recovered/README.md): two come from the Wayback Machine,
+and four differ from their Dictionary entry in file extension or folder.
 
 ## Source and terms
 

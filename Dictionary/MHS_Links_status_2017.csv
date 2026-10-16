@@ -1,7 +1,7 @@
 ﻿month,url,http_status,mhs_found,links,output,error
-2017-01,https://www.bnm.gov.my/-/monthly-statistical-bulletin-january-2017,200,no (standard-table),250,Dictionary/2017/MHS_Links_01.csv,
-2017-02,https://www.bnm.gov.my/-/monthly-statistical-bulletin-february-2017,200,no (standard-table),250,Dictionary/2017/MHS_Links_02.csv,
-2017-03,https://www.bnm.gov.my/-/monthly-statistical-bulletin-march-2017,200,no (standard-table),254,Dictionary/2017/MHS_Links_03.csv,
+2017-01,https://www.bnm.gov.my/-/monthly-statistical-bulletin-january-2017,200,no (standard-table),251,Dictionary/2017/MHS_Links_01.csv,
+2017-02,https://www.bnm.gov.my/-/monthly-statistical-bulletin-february-2017,200,no (standard-table),251,Dictionary/2017/MHS_Links_02.csv,
+2017-03,https://www.bnm.gov.my/-/monthly-statistical-bulletin-march-2017,200,no (standard-table),255,Dictionary/2017/MHS_Links_03.csv,
 2017-04,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-april-2017-1,200,no (standard-table),255,Dictionary/2017/MHS_Links_04.csv,
 2017-05,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-may-2017,200,no (standard-table),252,Dictionary/2017/MHS_Links_05.csv,
 2017-06,https://www.bnm.gov.my/-/monthly-highlights-and-statistics-june-2017,200,no (standard-table),258,Dictionary/2017/MHS_Links_06.csv,
